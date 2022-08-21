@@ -1,5 +1,5 @@
 Jona Zenteno
-COMANDOS GIT > 
+I ) COMANDOS GIT > 
 
 git init : iniciar git en repositorio
 
